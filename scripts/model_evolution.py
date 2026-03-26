@@ -240,7 +240,7 @@ def plot_evolution(model_top_words: dict, model_ttr: dict):
             text_lines.append(f"{short_i}∩{short_j}: {len(overlap)}語")
     
     ax.text(0.05, 0.95, "\n".join(text_lines), transform=ax.transAxes,
-            fontsize=10, verticalalignment="top", fontfamily="monospace",
+            fontsize=10, verticalalignment="top",
             bbox=dict(boxstyle="round", facecolor="wheat", alpha=0.5))
     
     plt.suptitle("Claude世代間変化分析", fontsize=16, fontweight="bold", y=1.02)
