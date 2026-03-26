@@ -1,5 +1,7 @@
 # Excess Vocabulary in Japanese AI-Generated Text
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19233934.svg)](https://doi.org/10.5281/zenodo.19233934)
+
 日本語AI生成テキストにおけるexcess vocabulary（過剰語彙）の定量分析。
 
 ![Excess Words Top 30](results/figures/excess_words_top30.png)
