@@ -2,6 +2,12 @@
 
 日本語AI生成テキストにおけるexcess vocabulary（過剰語彙）の定量分析。
 
+![Excess Words Top 30](results/figures/excess_words_top30.png)
+
+![Model Heatmap](results/figures/model_heatmap.png)
+
+![Claude Model Evolution](results/figures/model_evolution.png)
+
 ## Overview
 英語圏で確立されたexcess vocabulary手法（Geng & Trotta 2024）を日本語に初めて適用し、
 AI生成テキストに特徴的な語彙パターンを特定した研究。
