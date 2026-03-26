@@ -1,0 +1,494 @@
+{
+  "claude_models": {
+    "claude-3-haiku": "Claude 3 Haiku (2024)",
+    "claude-sonnet-4": "Claude Sonnet 4 (2025)",
+    "claude-opus-4": "Claude Opus 4 (2025)"
+  },
+  "model_excess_top20": {
+    "claude-3-haiku": [
+      {
+        "word": "立案",
+        "excess_score": 167.9759,
+        "model_freq": 0.00088426,
+        "human_freq": 5.23e-06,
+        "model_count": 18
+      },
+      {
+        "word": "エスケープ-escape",
+        "excess_score": 117.2831,
+        "model_freq": 0.00103164,
+        "human_freq": 8.72e-06,
+        "model_count": 21
+      },
+      {
+        "word": "VARCHAR",
+        "excess_score": 111.6506,
+        "model_freq": 0.0001965,
+        "human_freq": 1.74e-06,
+        "model_count": 4
+      },
+      {
+        "word": "スクリプティング",
+        "excess_score": 83.488,
+        "model_freq": 0.00044213,
+        "human_freq": 5.23e-06,
+        "model_count": 9
+      },
+      {
+        "word": "XSS",
+        "excess_score": 76.4473,
+        "model_freq": 0.00108076,
+        "human_freq": 1.395e-05,
+        "model_count": 22
+      },
+      {
+        "word": "クロスサイトリクエストフォージェリ",
+        "excess_score": 69.4066,
+        "model_freq": 0.00024563,
+        "human_freq": 3.49e-06,
+        "model_count": 5
+      },
+      {
+        "word": "CSRF",
+        "excess_score": 64.7129,
+        "model_freq": 0.00103164,
+        "human_freq": 1.57e-05,
+        "model_count": 21
+      },
+      {
+        "word": "話し合い",
+        "excess_score": 55.3253,
+        "model_freq": 0.0001965,
+        "human_freq": 3.49e-06,
+        "model_count": 4
+      },
+      {
+        "word": "ハイジャック-hijack",
+        "excess_score": 45.9378,
+        "model_freq": 0.00024563,
+        "human_freq": 5.23e-06,
+        "model_count": 5
+      },
+      {
+        "word": "こつ",
+        "excess_score": 42.5241,
+        "model_freq": 0.00083513,
+        "human_freq": 1.919e-05,
+        "model_count": 17
+      },
+      {
+        "word": "建設",
+        "excess_score": 41.244,
+        "model_freq": 0.00117901,
+        "human_freq": 2.791e-05,
+        "model_count": 24
+      },
+      {
+        "word": "講ずる",
+        "excess_score": 41.244,
+        "model_freq": 0.00058951,
+        "human_freq": 1.395e-05,
+        "model_count": 12
+      },
+      {
+        "word": "Found",
+        "excess_score": 41.244,
+        "model_freq": 0.00014738,
+        "human_freq": 3.49e-06,
+        "model_count": 3
+      },
+      {
+        "word": "Many",
+        "excess_score": 41.244,
+        "model_freq": 0.00014738,
+        "human_freq": 3.49e-06,
+        "model_count": 3
+      },
+      {
+        "word": "順守",
+        "excess_score": 36.5502,
+        "model_freq": 0.00078601,
+        "human_freq": 2.093e-05,
+        "model_count": 16
+      },
+      {
+        "word": "Continuous",
+        "excess_score": 36.5502,
+        "model_freq": 0.00058951,
+        "human_freq": 1.57e-05,
+        "model_count": 12
+      },
+      {
+        "word": "捕捉",
+        "excess_score": 33.6617,
+        "model_freq": 0.00078601,
+        "human_freq": 2.268e-05,
+        "model_count": 16
+      },
+      {
+        "word": "見直し",
+        "excess_score": 33.0916,
+        "model_freq": 0.00112989,
+        "human_freq": 3.314e-05,
+        "model_count": 23
+      },
+      {
+        "word": "早期",
+        "excess_score": 31.3349,
+        "model_freq": 0.00152289,
+        "human_freq": 4.71e-05,
+        "model_count": 31
+      },
+      {
+        "word": "ネーション-nation",
+        "excess_score": 31.1859,
+        "model_freq": 0.000393,
+        "human_freq": 1.221e-05,
+        "model_count": 8
+      }
+    ],
+    "claude-sonnet-4": [
+      {
+        "word": "バージョニング",
+        "excess_score": 157.6411,
+        "model_freq": 0.00138363,
+        "human_freq": 8.72e-06,
+        "model_count": 19
+      },
+      {
+        "word": "MTTR",
+        "excess_score": 124.243,
+        "model_freq": 0.00021847,
+        "human_freq": 1.74e-06,
+        "model_count": 3
+      },
+      {
+        "word": "NF",
+        "excess_score": 110.3271,
+        "model_freq": 0.00116516,
+        "human_freq": 1.047e-05,
+        "model_count": 16
+      },
+      {
+        "word": "一朝",
+        "excess_score": 82.4953,
+        "model_freq": 0.00029129,
+        "human_freq": 3.49e-06,
+        "model_count": 4
+      },
+      {
+        "word": "一夕",
+        "excess_score": 82.4953,
+        "model_freq": 0.00029129,
+        "human_freq": 3.49e-06,
+        "model_count": 4
+      },
+      {
+        "word": "Cross",
+        "excess_score": 82.4953,
+        "model_freq": 0.00029129,
+        "human_freq": 3.49e-06,
+        "model_count": 4
+      },
+      {
+        "word": "ピラミッド-pyramid",
+        "excess_score": 72.0584,
+        "model_freq": 0.00050976,
+        "human_freq": 6.98e-06,
+        "model_count": 7
+      },
+      {
+        "word": "チェックポイント-checkpoint",
+        "excess_score": 68.5794,
+        "model_freq": 0.00036411,
+        "human_freq": 5.23e-06,
+        "model_count": 5
+      },
+      {
+        "word": "立案",
+        "excess_score": 68.5794,
+        "model_freq": 0.00036411,
+        "human_freq": 5.23e-06,
+        "model_count": 5
+      },
+      {
+        "word": "再発",
+        "excess_score": 61.6215,
+        "model_freq": 0.00043694,
+        "human_freq": 6.98e-06,
+        "model_count": 6
+      },
+      {
+        "word": "クロスサイトリクエストフォージェリ",
+        "excess_score": 61.6215,
+        "model_freq": 0.00021847,
+        "human_freq": 3.49e-06,
+        "model_count": 3
+      },
+      {
+        "word": "底上げ",
+        "excess_score": 61.6215,
+        "model_freq": 0.00021847,
+        "human_freq": 3.49e-06,
+        "model_count": 3
+      },
+      {
+        "word": "Many",
+        "excess_score": 61.6215,
+        "model_freq": 0.00021847,
+        "human_freq": 3.49e-06,
+        "model_count": 3
+      },
+      {
+        "word": "CSRF",
+        "excess_score": 59.3022,
+        "model_freq": 0.00094669,
+        "human_freq": 1.57e-05,
+        "model_count": 13
+      },
+      {
+        "word": "Continuous",
+        "excess_score": 59.3022,
+        "model_freq": 0.00094669,
+        "human_freq": 1.57e-05,
+        "model_count": 13
+      },
+      {
+        "word": "ネーション-nation",
+        "excess_score": 58.6395,
+        "model_freq": 0.00072823,
+        "human_freq": 1.221e-05,
+        "model_count": 10
+      },
+      {
+        "word": "デプロイメント",
+        "excess_score": 55.9286,
+        "model_freq": 0.00109234,
+        "human_freq": 1.919e-05,
+        "model_count": 15
+      },
+      {
+        "word": "Site",
+        "excess_score": 54.6636,
+        "model_freq": 0.00029129,
+        "human_freq": 5.23e-06,
+        "model_count": 4
+      },
+      {
+        "word": "Tests",
+        "excess_score": 52.6756,
+        "model_freq": 0.0006554,
+        "human_freq": 1.221e-05,
+        "model_count": 9
+      },
+      {
+        "word": "XSS",
+        "excess_score": 51.1846,
+        "model_freq": 0.00072823,
+        "human_freq": 1.395e-05,
+        "model_count": 10
+      }
+    ],
+    "claude-opus-4": [
+      {
+        "word": "chore",
+        "excess_score": 254.2217,
+        "model_freq": 0.0004452,
+        "human_freq": 1.74e-06,
+        "model_count": 5
+      },
+      {
+        "word": "Permission",
+        "excess_score": 203.1774,
+        "model_freq": 0.00035616,
+        "human_freq": 1.74e-06,
+        "model_count": 4
+      },
+      {
+        "word": "dockerignore",
+        "excess_score": 203.1774,
+        "model_freq": 0.00035616,
+        "human_freq": 1.74e-06,
+        "model_count": 4
+      },
+      {
+        "word": "バージョニング",
+        "excess_score": 182.7596,
+        "model_freq": 0.00160271,
+        "human_freq": 8.72e-06,
+        "model_count": 18
+      },
+      {
+        "word": "NF",
+        "excess_score": 126.6109,
+        "model_freq": 0.00133559,
+        "human_freq": 1.047e-05,
+        "model_count": 15
+      },
+      {
+        "word": "ピラミッド-pyramid",
+        "excess_score": 126.6109,
+        "model_freq": 0.00089039,
+        "human_freq": 6.98e-06,
+        "model_count": 10
+      },
+      {
+        "word": "クロスサイトリクエストフォージェリ",
+        "excess_score": 126.6109,
+        "model_freq": 0.0004452,
+        "human_freq": 3.49e-06,
+        "model_count": 5
+      },
+      {
+        "word": "refactor",
+        "excess_score": 126.6109,
+        "model_freq": 0.0004452,
+        "human_freq": 3.49e-06,
+        "model_count": 5
+      },
+      {
+        "word": "スクリプティング",
+        "excess_score": 84.0739,
+        "model_freq": 0.0004452,
+        "human_freq": 5.23e-06,
+        "model_count": 5
+      },
+      {
+        "word": "両面",
+        "excess_score": 75.5665,
+        "model_freq": 0.00026712,
+        "human_freq": 3.49e-06,
+        "model_count": 3
+      },
+      {
+        "word": "Many",
+        "excess_score": 75.5665,
+        "model_freq": 0.00026712,
+        "human_freq": 3.49e-06,
+        "model_count": 3
+      },
+      {
+        "word": "ネーション-nation",
+        "excess_score": 71.9205,
+        "model_freq": 0.00089039,
+        "human_freq": 1.221e-05,
+        "model_count": 10
+      },
+      {
+        "word": "再発",
+        "excess_score": 62.8054,
+        "model_freq": 0.0004452,
+        "human_freq": 6.98e-06,
+        "model_count": 5
+      },
+      {
+        "word": "欠かす",
+        "excess_score": 60.9824,
+        "model_freq": 0.00151367,
+        "human_freq": 2.442e-05,
+        "model_count": 17
+      },
+      {
+        "word": "こつ",
+        "excess_score": 59.3251,
+        "model_freq": 0.00115751,
+        "human_freq": 1.919e-05,
+        "model_count": 13
+      },
+      {
+        "word": "XSS",
+        "excess_score": 56.4249,
+        "model_freq": 0.00080135,
+        "human_freq": 1.395e-05,
+        "model_count": 9
+      },
+      {
+        "word": "建設",
+        "excess_score": 53.2346,
+        "model_freq": 0.00151367,
+        "human_freq": 2.791e-05,
+        "model_count": 17
+      },
+      {
+        "word": "CSRF",
+        "excess_score": 50.0443,
+        "model_freq": 0.00080135,
+        "human_freq": 1.57e-05,
+        "model_count": 9
+      },
+      {
+        "word": "チェックリスト",
+        "excess_score": 50.0443,
+        "model_freq": 0.00062327,
+        "human_freq": 1.221e-05,
+        "model_count": 7
+      },
+      {
+        "word": "feat",
+        "excess_score": 50.0443,
+        "model_freq": 0.0004452,
+        "human_freq": 8.72e-06,
+        "model_count": 5
+      }
+    ]
+  },
+  "model_ttr": {
+    "claude-3-haiku": {
+      "ttr": 0.5227,
+      "types": 6322,
+      "tokens": 12094,
+      "hapax": 5192,
+      "hapax_ratio": 0.8213
+    },
+    "claude-sonnet-4": {
+      "ttr": 0.3176,
+      "types": 6486,
+      "tokens": 20421,
+      "hapax": 4505,
+      "hapax_ratio": 0.6946
+    },
+    "claude-opus-4": {
+      "ttr": 0.2922,
+      "types": 5292,
+      "tokens": 18110,
+      "hapax": 3395,
+      "hapax_ratio": 0.6415
+    }
+  },
+  "common_all_top20": [
+    "CSRF",
+    "Many",
+    "XSS",
+    "クロスサイトリクエストフォージェリ",
+    "ネーション-nation"
+  ],
+  "model_unique_top20": {
+    "claude-3-haiku": [],
+    "claude-sonnet-4": [
+      "Continuous",
+      "Cross",
+      "MTTR",
+      "Site",
+      "Tests",
+      "チェックポイント-checkpoint",
+      "デプロイメント",
+      "一夕",
+      "一朝",
+      "底上げ",
+      "立案"
+    ],
+    "claude-opus-4": [
+      "Permission",
+      "chore",
+      "dockerignore",
+      "feat",
+      "refactor",
+      "こつ",
+      "スクリプティング",
+      "チェックリスト",
+      "両面",
+      "建設",
+      "欠かす"
+    ]
+  }
+}

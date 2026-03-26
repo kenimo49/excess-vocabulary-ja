@@ -1,0 +1,111 @@
+{
+  "in_domain": {
+    "description": "技術ブログ train/test split (80/20)",
+    "logistic_regression": {
+      "accuracy": 0.9238,
+      "f1": 0.8769,
+      "auc_roc": 0.9084,
+      "n_samples": 210,
+      "n_positive": 70,
+      "n_negative": 140
+    },
+    "random_forest": {
+      "accuracy": 0.9095,
+      "f1": 0.855,
+      "auc_roc": 0.9457,
+      "n_samples": 210,
+      "n_positive": 70,
+      "n_negative": 140
+    }
+  },
+  "cross_domain": {
+    "diary": {
+      "label": "日記",
+      "logistic_regression": {
+        "accuracy": 0.6087,
+        "f1": 0.0816,
+        "auc_roc": 0.4392,
+        "n_samples": 230,
+        "n_positive": 90,
+        "n_negative": 140
+      },
+      "random_forest": {
+        "accuracy": 0.5957,
+        "f1": 0.0606,
+        "auc_roc": 0.4986,
+        "n_samples": 230,
+        "n_positive": 90,
+        "n_negative": 140
+      }
+    },
+    "business": {
+      "label": "ビジネスメール",
+      "logistic_regression": {
+        "accuracy": 0.6522,
+        "f1": 0.2593,
+        "auc_roc": 0.4968,
+        "n_samples": 230,
+        "n_positive": 90,
+        "n_negative": 140
+      },
+      "random_forest": {
+        "accuracy": 0.5826,
+        "f1": 0.0,
+        "auc_roc": 0.5346,
+        "n_samples": 230,
+        "n_positive": 90,
+        "n_negative": 140
+      }
+    },
+    "casual": {
+      "label": "雑談",
+      "logistic_regression": {
+        "accuracy": 0.6,
+        "f1": 0.0417,
+        "auc_roc": 0.3015,
+        "n_samples": 230,
+        "n_positive": 90,
+        "n_negative": 140
+      },
+      "random_forest": {
+        "accuracy": 0.587,
+        "f1": 0.0206,
+        "auc_roc": 0.402,
+        "n_samples": 230,
+        "n_positive": 90,
+        "n_negative": 140
+      }
+    },
+    "all_genres": {
+      "label": "全ジャンル統合",
+      "logistic_regression": {
+        "accuracy": 0.3805,
+        "f1": 0.1361,
+        "auc_roc": 0.4143,
+        "n_samples": 410,
+        "n_positive": 270,
+        "n_negative": 140
+      },
+      "random_forest": {
+        "accuracy": 0.3366,
+        "f1": 0.0286,
+        "auc_roc": 0.4784,
+        "n_samples": 410,
+        "n_positive": 270,
+        "n_negative": 140
+      }
+    }
+  },
+  "dataset": {
+    "tech_ai_docs": 350,
+    "tech_human_docs": 699,
+    "human_train": 559,
+    "human_holdout": 140,
+    "diverse_ai": {
+      "diary": 90,
+      "business": 90,
+      "casual": 90
+    },
+    "n_features": 100
+  }
+}

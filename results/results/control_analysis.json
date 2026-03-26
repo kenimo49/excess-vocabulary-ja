@@ -1,0 +1,668 @@
+{
+  "beginner": {
+    "doc_count": 100,
+    "token_count": 24930,
+    "top_excess_words": [
+      {
+        "word": "続ける",
+        "excess_score": 435.9154,
+        "target_freq": 0.00076213,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "DTO",
+        "excess_score": 435.9154,
+        "target_freq": 0.00076213,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "勝率",
+        "excess_score": 389.9243,
+        "target_freq": 0.00068191,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Arm",
+        "excess_score": 343.9332,
+        "target_freq": 0.00060168,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Worker",
+        "excess_score": 297.9421,
+        "target_freq": 0.00052146,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "倉庫",
+        "excess_score": 251.951,
+        "target_freq": 0.00132371,
+        "baseline_freq": 5.23e-06
+      },
+      {
+        "word": "壁打ち",
+        "excess_score": 251.951,
+        "target_freq": 0.00044124,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Orchestrator",
+        "excess_score": 205.9599,
+        "target_freq": 0.00036101,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "標本",
+        "excess_score": 182.9644,
+        "target_freq": 0.0003209,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "医薬",
+        "excess_score": 159.9688,
+        "target_freq": 0.00028079,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "バインディング-binding",
+        "excess_score": 159.9688,
+        "target_freq": 0.00028079,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "物流",
+        "excess_score": 146.8285,
+        "target_freq": 0.00180505,
+        "baseline_freq": 1.221e-05
+      },
+      {
+        "word": "強度",
+        "excess_score": 136.9733,
+        "target_freq": 0.00024067,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "転移",
+        "excess_score": 136.9733,
+        "target_freq": 0.00024067,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "金曜",
+        "excess_score": 113.9777,
+        "target_freq": 0.00040112,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "ペナルティー-penalty",
+        "excess_score": 113.9777,
+        "target_freq": 0.00020056,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "ＲＡＣ",
+        "excess_score": 113.9777,
+        "target_freq": 0.00020056,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "運送",
+        "excess_score": 113.9777,
+        "target_freq": 0.00020056,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "LaTeX",
+        "excess_score": 102.48,
+        "target_freq": 0.00036101,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "thinking",
+        "excess_score": 102.48,
+        "target_freq": 0.00036101,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "選手",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "トグル-toggle",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "TEXT",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Vertex",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Scan",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "DLL",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "腐敗",
+        "excess_score": 90.9822,
+        "target_freq": 0.0003209,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "店員",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "DQN",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "GameObject",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Bedrock",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Incident",
+        "excess_score": 90.9822,
+        "target_freq": 0.00016045,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Claude",
+        "excess_score": 79.4844,
+        "target_freq": 0.00308865,
+        "baseline_freq": 3.838e-05
+      },
+      {
+        "word": "payment",
+        "excess_score": 79.4844,
+        "target_freq": 0.00028079,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "楽曲",
+        "excess_score": 79.4844,
+        "target_freq": 0.00028079,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "ドリフト-drift",
+        "excess_score": 79.4844,
+        "target_freq": 0.00028079,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "Trivy",
+        "excess_score": 79.4844,
+        "target_freq": 0.00028079,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "量子",
+        "excess_score": 72.5858,
+        "target_freq": 0.00192539,
+        "baseline_freq": 2.617e-05
+      },
+      {
+        "word": "インターバル-interval",
+        "excess_score": 67.9866,
+        "target_freq": 0.00012034,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "試合",
+        "excess_score": 67.9866,
+        "target_freq": 0.00012034,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "変分",
+        "excess_score": 67.9866,
+        "target_freq": 0.00012034,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "LSTM",
+        "excess_score": 67.9866,
+        "target_freq": 0.00024067,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "Bootstrap",
+        "excess_score": 67.9866,
+        "target_freq": 0.00012034,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "VC",
+        "excess_score": 67.9866,
+        "target_freq": 0.00012034,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "割り引き",
+        "excess_score": 67.9866,
+        "target_freq": 0.00012034,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "核心",
+        "excess_score": 67.9866,
+        "target_freq": 0.00024067,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "少年",
+        "excess_score": 67.9866,
+        "target_freq": 0.00012034,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "カセット-cassette",
+        "excess_score": 67.9866,
+        "target_freq": 0.00012034,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "テープ-tape",
+        "excess_score": 67.9866,
+        "target_freq": 0.00012034,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "claude",
+        "excess_score": 67.9866,
+        "target_freq": 0.00012034,
+        "baseline_freq": 1.74e-06
+      }
+    ]
+  },
+  "expert": {
+    "doc_count": 100,
+    "token_count": 52213,
+    "top_excess_words": [
+      {
+        "word": "続ける",
+        "excess_score": 394.2664,
+        "target_freq": 0.00068948,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Pyxel",
+        "excess_score": 273.4905,
+        "target_freq": 0.00047881,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "RSC",
+        "excess_score": 251.5313,
+        "target_freq": 0.0004405,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Static",
+        "excess_score": 196.6332,
+        "target_freq": 0.00034474,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "SOC",
+        "excess_score": 185.6536,
+        "target_freq": 0.00032559,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Claude",
+        "excess_score": 178.6665,
+        "target_freq": 0.00689483,
+        "baseline_freq": 3.838e-05
+      },
+      {
+        "word": "NotebookLM",
+        "excess_score": 152.7147,
+        "target_freq": 0.00026813,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "skills",
+        "excess_score": 130.7555,
+        "target_freq": 0.00022983,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "claude",
+        "excess_score": 119.7758,
+        "target_freq": 0.00021068,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "トリアージ",
+        "excess_score": 119.7758,
+        "target_freq": 0.00021068,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "brain",
+        "excess_score": 119.7758,
+        "target_freq": 0.00021068,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Wave",
+        "excess_score": 108.7962,
+        "target_freq": 0.00019152,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "ペルソナ-persona",
+        "excess_score": 108.7962,
+        "target_freq": 0.00019152,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "RCE",
+        "excess_score": 97.8166,
+        "target_freq": 0.00017237,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "図表",
+        "excess_score": 97.8166,
+        "target_freq": 0.00017237,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Cursor",
+        "excess_score": 92.3268,
+        "target_freq": 0.00065118,
+        "baseline_freq": 6.98e-06
+      },
+      {
+        "word": "draw",
+        "excess_score": 89.5819,
+        "target_freq": 0.00063203,
+        "baseline_freq": 6.98e-06
+      },
+      {
+        "word": "話し掛ける",
+        "excess_score": 86.837,
+        "target_freq": 0.00015322,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "アフィリエート-affiliate",
+        "excess_score": 86.837,
+        "target_freq": 0.00015322,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Markdown",
+        "excess_score": 83.1771,
+        "target_freq": 0.00176201,
+        "baseline_freq": 2.093e-05
+      },
+      {
+        "word": "アセン-Asen",
+        "excess_score": 75.8574,
+        "target_freq": 0.00013407,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "化学",
+        "excess_score": 75.8574,
+        "target_freq": 0.00013407,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Fat",
+        "excess_score": 75.8574,
+        "target_freq": 0.00013407,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Diagram",
+        "excess_score": 75.8574,
+        "target_freq": 0.00013407,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "スクリーニング-screening",
+        "excess_score": 75.8574,
+        "target_freq": 0.00026813,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "Bedrock",
+        "excess_score": 75.8574,
+        "target_freq": 0.00013407,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Tauri",
+        "excess_score": 75.8574,
+        "target_freq": 0.00013407,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "references",
+        "excess_score": 75.8574,
+        "target_freq": 0.00013407,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "リンター-linter",
+        "excess_score": 70.3675,
+        "target_freq": 0.00024898,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "ブラ-bra",
+        "excess_score": 64.8777,
+        "target_freq": 0.00011491,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "Exit",
+        "excess_score": 64.8777,
+        "target_freq": 0.00011491,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "クイズ-quiz",
+        "excess_score": 64.8777,
+        "target_freq": 0.00011491,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "pack",
+        "excess_score": 64.8777,
+        "target_freq": 0.00011491,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "margin",
+        "excess_score": 64.8777,
+        "target_freq": 0.00011491,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "エージェント-agent",
+        "excess_score": 63.0478,
+        "target_freq": 0.00469232,
+        "baseline_freq": 7.326e-05
+      },
+      {
+        "word": "ハーネス-harness",
+        "excess_score": 63.0478,
+        "target_freq": 0.00067033,
+        "baseline_freq": 1.047e-05
+      },
+      {
+        "word": "Vite",
+        "excess_score": 61.7407,
+        "target_freq": 0.00076609,
+        "baseline_freq": 1.221e-05
+      },
+      {
+        "word": "スパゲッティ-spaghetti",
+        "excess_score": 53.8981,
+        "target_freq": 9.576e-05,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "出口",
+        "excess_score": 53.8981,
+        "target_freq": 0.00019152,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "遠回り",
+        "excess_score": 53.8981,
+        "target_freq": 9.576e-05,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "基地",
+        "excess_score": 53.8981,
+        "target_freq": 9.576e-05,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "ingress",
+        "excess_score": 53.8981,
+        "target_freq": 9.576e-05,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "作図",
+        "excess_score": 53.8981,
+        "target_freq": 0.00019152,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "XP",
+        "excess_score": 53.8981,
+        "target_freq": 0.00028728,
+        "baseline_freq": 5.23e-06
+      },
+      {
+        "word": "称号",
+        "excess_score": 53.8981,
+        "target_freq": 9.576e-05,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "SoC",
+        "excess_score": 53.8981,
+        "target_freq": 9.576e-05,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "ACL",
+        "excess_score": 53.8981,
+        "target_freq": 9.576e-05,
+        "baseline_freq": 1.74e-06
+      },
+      {
+        "word": "魔法",
+        "excess_score": 48.4083,
+        "target_freq": 0.00017237,
+        "baseline_freq": 3.49e-06
+      },
+      {
+        "word": "design",
+        "excess_score": 48.4083,
+        "target_freq": 0.00051711,
+        "baseline_freq": 1.047e-05
+      },
+      {
+        "word": "サロ-Salo",
+        "excess_score": 46.5784,
+        "target_freq": 0.00024898,
+        "baseline_freq": 5.23e-06
+      }
+    ]
+  },
+  "overlap": {
+    "ai_beginner": {
+      "count": 3,
+      "ratio_of_ai": 0.015,
+      "words": [
+        "MFA",
+        "Tool",
+        "密度"
+      ]
+    },
+    "ai_expert": {
+      "count": 4,
+      "ratio_of_ai": 0.02,
+      "words": [
+        "Code",
+        "ROI",
+        "Tool",
+        "プレース-place"
+      ]
+    },
+    "beginner_expert": {
+      "count": 24,
+      "words": [
+        "Agents",
+        "Aqua",
+        "Bedrock",
+        "Claude",
+        "DTO",
+        "Tab",
+        "Tool",
+        "claude",
+        "skills",
+        "エージェント-agent",
+        "クイズ-quiz",
+        "サンド-sandwich",
+        "ダーク-dark",
+        "トリアージ",
+        "リサーチ-research",
+        "化学",
+        "壁打ち",
+        "学術",
+        "完遂",
+        "暗記",
+        "核心",
+        "武器",
+        "続ける",
+        "設備"
+      ]
+    }
+  },
+  "conclusion": {
+    "ai_beginner_overlap_pct": 1.5,
+    "ai_expert_overlap_pct": 2.0
+  }
+}

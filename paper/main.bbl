@@ -1,0 +1,108 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Anthropic}(2025)]{anthropic2025claude}
+{Anthropic}.
+\newblock Claude model family, 2025.
+\newblock \url{https://www.anthropic.com/claude}.
+
+\bibitem[Arrigo et~al.(2025)]{arrigo2025coevolution}
+Luca Arrigo et~al.
+\newblock Human-{LLM} coevolution: Evidence from academic writing.
+\newblock \emph{arXiv preprint arXiv:2502.09606}, 2025.
+
+\bibitem[Gray et~al.(2024)]{gray2024chatgpt}
+Andrew Gray et~al.
+\newblock {ChatGPT} contamination in scientific literature: evidence from
+  excess vocabulary.
+\newblock \emph{Science Advances}, 2024.
+
+\bibitem[Imoto(2025)]{imoto2025slop}
+Ken Imoto.
+\newblock {AI} text slop: Quantitative analysis of 16 structural patterns in
+  {LLM}-generated japanese text, 2025.
+\newblock Zenodo.
+
+\bibitem[Kanda et~al.(2025)Kanda, Jin, and Zaitsu]{kanda2025ensemble}
+Taisei Kanda, Mingzhe Jin, and Wataru Zaitsu.
+\newblock Integrated ensemble of {BERT}- and features-based models for
+  authorship attribution in {Japanese} literary works.
+\newblock \emph{Frontiers in Artificial Intelligence}, 8:\penalty0 1624900,
+  2025.
+\newblock \doi{10.3389/frai.2025.1624900}.
+
+\bibitem[Kobak et~al.(2024)Kobak, Gonz{\'a}lez-M{\'a}rquez, Horv{\'a}t, and
+  Lause]{kobak2024vocabulary}
+Dmitry Kobak, Rita Gonz{\'a}lez-M{\'a}rquez, Em{\H{o}}ke-{\'A}gnes Horv{\'a}t,
+  and Jan Lause.
+\newblock Delving into {ChatGPT} usage in academic writing through excess
+  vocabulary.
+\newblock \emph{arXiv preprint arXiv:2406.07016}, 2024.
+
+\bibitem[Koike et~al.(2024)Koike, Kaneko, and Okazaki]{koike2024outfox}
+Ryuto Koike, Masahiro Kaneko, and Naoaki Okazaki.
+\newblock {OUTFOX}: {LLM}-generated essay detection through in-context learning
+  with adversarially generated examples.
+\newblock In \emph{Proceedings of the 38th AAAI Conference on Artificial
+  Intelligence}, pages 21258--21266, 2024.
+
+\bibitem[Kudo(2006)]{kudo2006mecab}
+Taku Kudo.
+\newblock {MeCab}: Yet another part-of-speech and morphological analyzer.
+\newblock 2006.
+\newblock \url{https://taku910.github.io/mecab/}.
+
+\bibitem[Liang et~al.(2024)Liang, Izzo, Zhang, et~al.]{liang2024monitoring}
+Weixin Liang, Zachary Izzo, Yaohui Zhang, et~al.
+\newblock Monitoring {AI}-modified content at scale: A case study on the impact
+  of {ChatGPT} on {AI} conference peer reviews.
+\newblock \emph{arXiv preprint arXiv:2403.07183}, 2024.
+
+\bibitem[Maekawa et~al.(2014)Maekawa, Yamazaki, Ogiso, Maruyama, Ogura,
+  Kashino, Koiso, Yamaguchi, Tanaka, and Den]{maekawa2014bccwj}
+Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki
+  Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and
+  Yasuharu Den.
+\newblock Balanced corpus of contemporary written {Japanese}.
+\newblock \emph{Language Resources and Evaluation}, 48:\penalty0 345--371,
+  2014.
+\newblock \doi{10.1007/s10579-013-9261-0}.
+
+\bibitem[Malmqvist(2024)]{malmqvist2024sycophancy}
+Lars Malmqvist.
+\newblock Sycophancy in language models: Causes and mitigations.
+\newblock \emph{arXiv preprint arXiv:2411.15287}, 2024.
+
+\bibitem[{National Institute for Japanese Language and
+  Linguistics}(2021)]{unidic2021}
+{National Institute for Japanese Language and Linguistics}.
+\newblock Unidic: Universal dictionary for morphological analysis of
+  {Japanese}, 2021.
+\newblock \url{https://clrd.ninjal.ac.jp/unidic/}.
+
+\bibitem[{OpenAI}(2024)]{openai2024gpt4}
+{OpenAI}.
+\newblock {GPT-4} technical report, 2024.
+\newblock \url{https://openai.com/research/gpt-4}.
+
+\bibitem[Zaitsu and Jin(2023)]{zaitsu2023chatgpt}
+Wataru Zaitsu and Mingzhe Jin.
+\newblock Distinguishing {ChatGPT}(-3.5, -4)-generated and human-written papers
+  through {Japanese} stylometric analysis.
+\newblock \emph{PLOS ONE}, 18\penalty0 (8):\penalty0 e0288453, 2023.
+\newblock \doi{10.1371/journal.pone.0288453}.
+
+\bibitem[Zaitsu et~al.(2025)Zaitsu, Jin, Ishihara, Tsuge, and
+  Inaba]{zaitsu2025stylometry}
+Wataru Zaitsu, Mingzhe Jin, Shunichi Ishihara, Satoru Tsuge, and Minoru Inaba.
+\newblock Stylometry can reveal artificial intelligence authorship, but humans
+  struggle: A comparison of human and seven large language models in
+  {Japanese}.
+\newblock \emph{PLOS ONE}, 20\penalty0 (10):\penalty0 e0335369, 2025.
+\newblock \doi{10.1371/journal.pone.0335369}.
+
+\end{thebibliography}

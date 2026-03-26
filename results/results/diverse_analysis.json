@@ -1,0 +1,860 @@
+{
+  "genres": {
+    "tech_blog": {
+      "label": "技術ブログ",
+      "doc_count": "N/A",
+      "token_count": "N/A",
+      "excess_top50": [
+        {
+          "word": "Hash",
+          "excess_score": 189.0796
+        },
+        {
+          "word": "Parent",
+          "excess_score": 176.9578
+        },
+        {
+          "word": "レート-rate",
+          "excess_score": 172.0575
+        },
+        {
+          "word": "Review",
+          "excess_score": 169.6503
+        },
+        {
+          "word": "カスケード-cascade",
+          "excess_score": 161.3399
+        },
+        {
+          "word": "Reviews",
+          "excess_score": 145.5788
+        },
+        {
+          "word": "Image",
+          "excess_score": 107.3787
+        },
+        {
+          "word": "Dockerfiles",
+          "excess_score": 79.3819
+        },
+        {
+          "word": "Tool",
+          "excess_score": 67.561
+        },
+        {
+          "word": "monitoring",
+          "excess_score": 65.1969
+        },
+        {
+          "word": "NF",
+          "excess_score": 62.8327
+        },
+        {
+          "word": "Travis",
+          "excess_score": 62.8327
+        },
+        {
+          "word": "deployment",
+          "excess_score": 60.4685
+        },
+        {
+          "word": "原子",
+          "excess_score": 60.4685
+        },
+        {
+          "word": "ページング-paging",
+          "excess_score": 60.4685
+        },
+        {
+          "word": "バージョニング",
+          "excess_score": 56.6858
+        },
+        {
+          "word": "エスケープ-escape",
+          "excess_score": 53.8488
+        },
+        {
+          "word": "ファイリング-filing",
+          "excess_score": 51.0118
+        },
+        {
+          "word": "XSS",
+          "excess_score": 50.4208
+        },
+        {
+          "word": "スクリプティング",
+          "excess_score": 49.4357
+        },
+        {
+          "word": "development",
+          "excess_score": 47.2291
+        },
+        {
+          "word": "立案",
+          "excess_score": 46.2835
+        },
+        {
+          "word": "クロスサイトリクエストフォージェリ",
+          "excess_score": 46.2835
+        },
+        {
+          "word": "Unauthorized",
+          "excess_score": 46.2835
+        },
+        {
+          "word": "Found",
+          "excess_score": 43.9193
+        },
+        {
+          "word": "こつ",
+          "excess_score": 41.5551
+        },
+        {
+          "word": "CSRF",
+          "excess_score": 41.5551
+        },
+        {
+          "word": "Branching",
+          "excess_score": 41.5551
+        },
+        {
+          "word": "Many",
+          "excess_score": 36.8268
+        },
+        {
+          "word": "HSTS",
+          "excess_score": 36.8268
+        },
+        {
+          "word": "Broken",
+          "excess_score": 36.8268
+        },
+        {
+          "word": "短所",
+          "excess_score": 36.8268
+        },
+        {
+          "word": "Readability",
+          "excess_score": 36.8268
+        },
+        {
+          "word": "Handling",
+          "excess_score": 36.8268
+        },
+        {
+          "word": "compliance",
+          "excess_score": 36.8268
+        },
+        {
+          "word": "Deployment",
+          "excess_score": 32.8865
+        },
+        {
+          "word": "チェックリスト",
+          "excess_score": 32.0984
+        },
+        {
+          "word": "Forbidden",
+          "excess_score": 32.0984
+        },
+        {
+          "word": "dockerignore",
+          "excess_score": 32.0984
+        },
+        {
+          "word": "Frame",
+          "excess_score": 32.0984
+        },
+        {
+          "word": "chore",
+          "excess_score": 32.0984
+        },
+        {
+          "word": "Continuous",
+          "excess_score": 29.4716
+        },
+        {
+          "word": "ネーション-nation",
+          "excess_score": 28.0456
+        },
+        {
+          "word": "合併",
+          "excess_score": 27.3701
+        },
+        {
+          "word": "Internal",
+          "excess_score": 27.3701
+        },
+        {
+          "word": "Scripting",
+          "excess_score": 27.3701
+        },
+        {
+          "word": "Permission",
+          "excess_score": 27.3701
+        },
+        {
+          "word": "Containerization",
+          "excess_score": 27.3701
+        },
+        {
+          "word": "Best",
+          "excess_score": 27.3701
+        },
+        {
+          "word": "SAML",
+          "excess_score": 27.3701
+        }
+      ]
+    },
+    "diary": {
+      "label": "日記・エッセイ",
+      "doc_count": 90,
+      "token_count": 20659,
+      "excess_top50": [
+        {
+          "word": "教室",
+          "excess_score": 2274.4673
+        },
+        {
+          "word": "移り変わり",
+          "excess_score": 1552.9776
+        },
+        {
+          "word": "続ける",
+          "excess_score": 914.7368
+        },
+        {
+          "word": "帰り道",
+          "excess_score": 859.2376
+        },
+        {
+          "word": "散歩",
+          "excess_score": 775.9888
+        },
+        {
+          "word": "プレゼンテーション-presentation",
+          "excess_score": 706.6148
+        },
+        {
+          "word": "夕方",
+          "excess_score": 692.74
+        },
+        {
+          "word": "季節",
+          "excess_score": 678.8652
+        },
+        {
+          "word": "匂い",
+          "excess_score": 526.2424
+        },
+        {
+          "word": "黄色",
+          "excess_score": 470.7432
+        },
+        {
+          "word": "近所",
+          "excess_score": 470.7432
+        },
+        {
+          "word": "見上げる",
+          "excess_score": 442.9936
+        },
+        {
+          "word": "コート-coat",
+          "excess_score": 415.244
+        },
+        {
+          "word": "書道",
+          "excess_score": 415.244
+        },
+        {
+          "word": "温かい",
+          "excess_score": 380.557
+        },
+        {
+          "word": "木々",
+          "excess_score": 373.6196
+        },
+        {
+          "word": "冷たい",
+          "excess_score": 373.6196
+        },
+        {
+          "word": "公園",
+          "excess_score": 341.2451
+        },
+        {
+          "word": "風景",
+          "excess_score": 331.9952
+        },
+        {
+          "word": "没頭",
+          "excess_score": 331.9952
+        },
+        {
+          "word": "昼休み",
+          "excess_score": 304.2456
+        },
+        {
+          "word": "涼しい",
+          "excess_score": 276.496
+        },
+        {
+          "word": "暑い",
+          "excess_score": 276.496
+        },
+        {
+          "word": "レッスン-lesson",
+          "excess_score": 276.496
+        },
+        {
+          "word": "今夜",
+          "excess_score": 276.496
+        },
+        {
+          "word": "表情",
+          "excess_score": 262.6212
+        },
+        {
+          "word": "寂しい",
+          "excess_score": 262.6212
+        },
+        {
+          "word": "足元",
+          "excess_score": 248.7464
+        },
+        {
+          "word": "焦り",
+          "excess_score": 248.7464
+        },
+        {
+          "word": "愛着",
+          "excess_score": 248.7464
+        },
+        {
+          "word": "歪む",
+          "excess_score": 248.7464
+        },
+        {
+          "word": "緊張",
+          "excess_score": 241.809
+        },
+        {
+          "word": "漂う",
+          "excess_score": 234.8716
+        },
+        {
+          "word": "喜び",
+          "excess_score": 230.2467
+        },
+        {
+          "word": "空気",
+          "excess_score": 225.6217
+        },
+        {
+          "word": "先週",
+          "excess_score": 220.9968
+        },
+        {
+          "word": "地元",
+          "excess_score": 220.9968
+        },
+        {
+          "word": "料理",
+          "excess_score": 220.9968
+        },
+        {
+          "word": "カフェ-cafe",
+          "excess_score": 220.9968
+        },
+        {
+          "word": "着く",
+          "excess_score": 207.122
+        },
+        {
+          "word": "支度",
+          "excess_score": 193.2472
+        },
+        {
+          "word": "柔らかい",
+          "excess_score": 193.2472
+        },
+        {
+          "word": "味覚",
+          "excess_score": 193.2472
+        },
+        {
+          "word": "入り交じる",
+          "excess_score": 193.2472
+        },
+        {
+          "word": "慌てる",
+          "excess_score": 193.2472
+        },
+        {
+          "word": "店員",
+          "excess_score": 193.2472
+        },
+        {
+          "word": "体調",
+          "excess_score": 183.9973
+        },
+        {
+          "word": "ゆっくり",
+          "excess_score": 179.3724
+        },
+        {
+          "word": "出掛ける",
+          "excess_score": 179.3724
+        },
+        {
+          "word": "今日",
+          "excess_score": 169.0552
+        }
+      ]
+    },
+    "business": {
+      "label": "ビジネスメール",
+      "doc_count": 90,
+      "token_count": 7322,
+      "excess_top50": [
+        {
+          "word": "申し上げる",
+          "excess_score": 2882.881
+        },
+        {
+          "word": "何とぞ",
+          "excess_score": 2621.8963
+        },
+        {
+          "word": "高配",
+          "excess_score": 1878.0899
+        },
+        {
+          "word": "件名",
+          "excess_score": 1408.3174
+        },
+        {
+          "word": "XXXX",
+          "excess_score": 1212.5789
+        },
+        {
+          "word": "差し上げる",
+          "excess_score": 781.9541
+        },
+        {
+          "word": "恐れ入る",
+          "excess_score": 703.6587
+        },
+        {
+          "word": "厚い",
+          "excess_score": 664.511
+        },
+        {
+          "word": "XXX",
+          "excess_score": 625.3633
+        },
+        {
+          "word": "存ずる",
+          "excess_score": 534.0186
+        },
+        {
+          "word": "世話",
+          "excess_score": 468.7725
+        },
+        {
+          "word": "来週",
+          "excess_score": 416.5755
+        },
+        {
+          "word": "尽力",
+          "excess_score": 390.4771
+        },
+        {
+          "word": "迷惑",
+          "excess_score": 343.4998
+        },
+        {
+          "word": "恐縮",
+          "excess_score": 338.2801
+        },
+        {
+          "word": "打ち合わせ",
+          "excess_score": 331.7555
+        },
+        {
+          "word": "役職",
+          "excess_score": 325.2309
+        },
+        {
+          "word": "頂戴",
+          "excess_score": 312.1816
+        },
+        {
+          "word": "受け取り",
+          "excess_score": 286.0832
+        },
+        {
+          "word": "宜しく",
+          "excess_score": 274.736
+        },
+        {
+          "word": "納期",
+          "excess_score": 245.0713
+        },
+        {
+          "word": "本日",
+          "excess_score": 243.6732
+        },
+        {
+          "word": "company",
+          "excess_score": 233.8862
+        },
+        {
+          "word": "明点",
+          "excess_score": 214.3124
+        },
+        {
+          "word": "遅れ",
+          "excess_score": 194.7385
+        },
+        {
+          "word": "増員",
+          "excess_score": 194.7385
+        },
+        {
+          "word": "喜び",
+          "excess_score": 181.6893
+        },
+        {
+          "word": "遅延",
+          "excess_score": 173.3181
+        },
+        {
+          "word": "声掛け",
+          "excess_score": 168.6401
+        },
+        {
+          "word": "挽回",
+          "excess_score": 155.5908
+        },
+        {
+          "word": "本件",
+          "excess_score": 155.5908
+        },
+        {
+          "word": "引き続き",
+          "excess_score": 155.5908
+        },
+        {
+          "word": "完備",
+          "excess_score": 155.5908
+        },
+        {
+          "word": "xxxxx",
+          "excess_score": 155.5908
+        },
+        {
+          "word": "完遂",
+          "excess_score": 155.5908
+        },
+        {
+          "word": "株式",
+          "excess_score": 151.7402
+        },
+        {
+          "word": "築く",
+          "excess_score": 139.9317
+        },
+        {
+          "word": "祈る",
+          "excess_score": 136.017
+        },
+        {
+          "word": "申す",
+          "excess_score": 136.017
+        },
+        {
+          "word": "指導",
+          "excess_score": 132.1022
+        },
+        {
+          "word": "進捗",
+          "excess_score": 129.4924
+        },
+        {
+          "word": "xxxx",
+          "excess_score": 127.1198
+        },
+        {
+          "word": "遠慮",
+          "excess_score": 126.23
+        },
+        {
+          "word": "努める",
+          "excess_score": 122.0356
+        },
+        {
+          "word": "タロウ",
+          "excess_score": 120.002
+        },
+        {
+          "word": "提案",
+          "excess_score": 116.9148
+        },
+        {
+          "word": "連絡",
+          "excess_score": 116.4431
+        },
+        {
+          "word": "jp",
+          "excess_score": 116.4431
+        },
+        {
+          "word": "付き合い",
+          "excess_score": 116.4431
+        },
+        {
+          "word": "納入",
+          "excess_score": 116.4431
+        }
+      ]
+    },
+    "casual": {
+      "label": "雑談・カジュアル",
+      "doc_count": 90,
+      "token_count": 12545,
+      "excess_top50": [
+        {
+          "word": "週末",
+          "excess_score": 3494.8823
+        },
+        {
+          "word": "カフェ-cafe",
+          "excess_score": 2055.4014
+        },
+        {
+          "word": "近所",
+          "excess_score": 1324.2364
+        },
+        {
+          "word": "のんびり",
+          "excess_score": 1141.4452
+        },
+        {
+          "word": "散歩",
+          "excess_score": 958.654
+        },
+        {
+          "word": "料理",
+          "excess_score": 897.7236
+        },
+        {
+          "word": "リラックス-relax",
+          "excess_score": 775.8627
+        },
+        {
+          "word": "日曜",
+          "excess_score": 593.0715
+        },
+        {
+          "word": "ゆっくり",
+          "excess_score": 570.2226
+        },
+        {
+          "word": "友達",
+          "excess_score": 509.9846
+        },
+        {
+          "word": "ダンス-dance",
+          "excess_score": 501.6759
+        },
+        {
+          "word": "続ける",
+          "excess_score": 501.6759
+        },
+        {
+          "word": "夕方",
+          "excess_score": 455.9781
+        },
+        {
+          "word": "洗濯",
+          "excess_score": 455.9781
+        },
+        {
+          "word": "早起き",
+          "excess_score": 455.9781
+        },
+        {
+          "word": "キャンプ-camp",
+          "excess_score": 455.9781
+        },
+        {
+          "word": "家族",
+          "excess_score": 428.5594
+        },
+        {
+          "word": "ぼうっと",
+          "excess_score": 410.2803
+        },
+        {
+          "word": "御洒落",
+          "excess_score": 387.4314
+        },
+        {
+          "word": "友情",
+          "excess_score": 364.5825
+        },
+        {
+          "word": "韓国",
+          "excess_score": 349.3499
+        },
+        {
+          "word": "過ごす",
+          "excess_score": 323.9622
+        },
+        {
+          "word": "アカデミー-academy",
+          "excess_score": 318.8847
+        },
+        {
+          "word": "植物",
+          "excess_score": 318.8847
+        },
+        {
+          "word": "癒す",
+          "excess_score": 318.8847
+        },
+        {
+          "word": "アンダーソン-Anderson",
+          "excess_score": 318.8847
+        },
+        {
+          "word": "公園",
+          "excess_score": 303.6521
+        },
+        {
+          "word": "飽きる",
+          "excess_score": 296.0358
+        },
+        {
+          "word": "笑う",
+          "excess_score": 288.4194
+        },
+        {
+          "word": "平日",
+          "excess_score": 282.3264
+        },
+        {
+          "word": "泣く",
+          "excess_score": 273.1868
+        },
+        {
+          "word": "Netflix",
+          "excess_score": 273.1868
+        },
+        {
+          "word": "ジム-gym",
+          "excess_score": 273.1868
+        },
+        {
+          "word": "出掛ける",
+          "excess_score": 273.1868
+        },
+        {
+          "word": "ビール-beer",
+          "excess_score": 273.1868
+        },
+        {
+          "word": "風景",
+          "excess_score": 273.1868
+        },
+        {
+          "word": "葉っぱ",
+          "excess_score": 273.1868
+        },
+        {
+          "word": "抹茶",
+          "excess_score": 273.1868
+        },
+        {
+          "word": "ドラマ-drama",
+          "excess_score": 265.5705
+        },
+        {
+          "word": "金曜",
+          "excess_score": 250.3379
+        },
+        {
+          "word": "巡り",
+          "excess_score": 250.3379
+        },
+        {
+          "word": "映画",
+          "excess_score": 242.7216
+        },
+        {
+          "word": "土曜",
+          "excess_score": 242.7216
+        },
+        {
+          "word": "奥深い",
+          "excess_score": 227.489
+        },
+        {
+          "word": "ジョン-John",
+          "excess_score": 227.489
+        },
+        {
+          "word": "芸術",
+          "excess_score": 227.489
+        },
+        {
+          "word": "構図",
+          "excess_score": 227.489
+        },
+        {
+          "word": "休み",
+          "excess_score": 227.489
+        },
+        {
+          "word": "発散",
+          "excess_score": 212.2564
+        },
+        {
+          "word": "離す",
+          "excess_score": 204.6401
+        }
+      ]
+    }
+  },
+  "overlap_jaccard": {
+    "tech_blog": {
+      "tech_blog": 1.0,
+      "diary": 0.0,
+      "business": 0.005,
+      "casual": 0.0
+    },
+    "diary": {
+      "tech_blog": 0.0,
+      "diary": 1.0,
+      "business": 0.0152,
+      "casual": 0.0989
+    },
+    "business": {
+      "tech_blog": 0.005,
+      "diary": 0.0152,
+      "business": 1.0,
+      "casual": 0.0101
+    },
+    "casual": {
+      "tech_blog": 0.0,
+      "diary": 0.0989,
+      "business": 0.0101,
+      "casual": 1.0
+    }
+  },
+  "human_diverse_corpus": null,
+  "finding": "ジャンル間のexcess words重複度が高ければドメイン非依存、低ければドメイン依存"
+}

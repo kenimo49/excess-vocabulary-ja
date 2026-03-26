@@ -1,0 +1,268 @@
+{
+  "logistic_regression": {
+    "accuracy": 0.885,
+    "precision": 0.9412,
+    "recall": 0.7442,
+    "f1": 0.8312,
+    "auc_roc": 0.8303
+  },
+  "random_forest": {
+    "accuracy": 0.8628,
+    "precision": 0.9104,
+    "recall": 0.7093,
+    "f1": 0.7974,
+    "auc_roc": 0.9086
+  },
+  "top_features": [
+    {
+      "word": "ベスト-best",
+      "importance": 0.144466
+    },
+    {
+      "word": "プラクティス-practice",
+      "importance": 0.125801
+    },
+    {
+      "word": "実践",
+      "importance": 0.116655
+    },
+    {
+      "word": "欠かす",
+      "importance": 0.076492
+    },
+    {
+      "word": "戦略",
+      "importance": 0.073799
+    },
+    {
+      "word": "早期",
+      "importance": 0.070287
+    },
+    {
+      "word": "こつ",
+      "importance": 0.038244
+    },
+    {
+      "word": "スケジュール-schedule",
+      "importance": 0.024811
+    },
+    {
+      "word": "レジストリー-registry",
+      "importance": 0.024664
+    },
+    {
+      "word": "建設",
+      "importance": 0.021609
+    },
+    {
+      "word": "XSS",
+      "importance": 0.020846
+    },
+    {
+      "word": "心掛ける",
+      "importance": 0.020771
+    },
+    {
+      "word": "HTTPS",
+      "importance": 0.020478
+    },
+    {
+      "word": "例外",
+      "importance": 0.016249
+    },
+    {
+      "word": "NF",
+      "importance": 0.012747
+    },
+    {
+      "word": "堅牢",
+      "importance": 0.011804
+    },
+    {
+      "word": "側面",
+      "importance": 0.011186
+    },
+    {
+      "word": "Continuous",
+      "importance": 0.010847
+    },
+    {
+      "word": "スクリプティング",
+      "importance": 0.010809
+    },
+    {
+      "word": "直結",
+      "importance": 0.009797
+    },
+    {
+      "word": "エスケープ-escape",
+      "importance": 0.009495
+    },
+    {
+      "word": "チェックリスト",
+      "importance": 0.009019
+    },
+    {
+      "word": "CSRF",
+      "importance": 0.008692
+    },
+    {
+      "word": "デプロイメント",
+      "importance": 0.007954
+    },
+    {
+      "word": "クロスサイトリクエストフォージェリ",
+      "importance": 0.006249
+    },
+    {
+      "word": "順守",
+      "importance": 0.0062
+    },
+    {
+      "word": "Deployment",
+      "importance": 0.005286
+    },
+    {
+      "word": "Travis",
+      "importance": 0.004448
+    },
+    {
+      "word": "尊重",
+      "importance": 0.003948
+    },
+    {
+      "word": "醸成",
+      "importance": 0.003888
+    }
+  ],
+  "lr_top_coefficients": [
+    {
+      "word": "スケジュール-schedule",
+      "coefficient": 1.707234
+    },
+    {
+      "word": "戦略",
+      "coefficient": 0.938378
+    },
+    {
+      "word": "欠かす",
+      "coefficient": 0.88425
+    },
+    {
+      "word": "レジストリー-registry",
+      "coefficient": 0.774965
+    },
+    {
+      "word": "Continuous",
+      "coefficient": 0.723505
+    },
+    {
+      "word": "Travis",
+      "coefficient": 0.69156
+    },
+    {
+      "word": "こつ",
+      "coefficient": 0.659727
+    },
+    {
+      "word": "NF",
+      "coefficient": 0.614314
+    },
+    {
+      "word": "再発",
+      "coefficient": 0.552594
+    },
+    {
+      "word": "実践",
+      "coefficient": 0.521488
+    },
+    {
+      "word": "プラクティス-practice",
+      "coefficient": 0.514468
+    },
+    {
+      "word": "プレフィックス-prefix",
+      "coefficient": 0.503492
+    },
+    {
+      "word": "建設",
+      "coefficient": 0.493223
+    },
+    {
+      "word": "側面",
+      "coefficient": 0.492468
+    },
+    {
+      "word": "ベスト-best",
+      "coefficient": 0.484248
+    },
+    {
+      "word": "エスケープ-escape",
+      "coefficient": 0.450986
+    },
+    {
+      "word": "尊重",
+      "coefficient": 0.434578
+    },
+    {
+      "word": "Ansible",
+      "coefficient": 0.420512
+    },
+    {
+      "word": "Swarm",
+      "coefficient": 0.407887
+    },
+    {
+      "word": "チェックリスト",
+      "coefficient": 0.357015
+    },
+    {
+      "word": "クロスサイトリクエストフォージェリ",
+      "coefficient": 0.350817
+    },
+    {
+      "word": "レート-rate",
+      "coefficient": 0.343471
+    },
+    {
+      "word": "落とし穴",
+      "coefficient": 0.339997
+    },
+    {
+      "word": "Review",
+      "coefficient": 0.32188
+    },
+    {
+      "word": "バージョニング",
+      "coefficient": 0.317687
+    },
+    {
+      "word": "順守",
+      "coefficient": 0.316072
+    },
+    {
+      "word": "UUID",
+      "coefficient": -0.276658
+    },
+    {
+      "word": "Status",
+      "coefficient": 0.275344
+    },
+    {
+      "word": "Prometheus",
+      "coefficient": 0.270515
+    },
+    {
+      "word": "例外",
+      "coefficient": 0.269277
+    }
+  ],
+  "dataset": {
+    "total_docs": 1130,
+    "ai_docs": 431,
+    "human_docs": 699,
+    "train_size": 904,
+    "test_size": 226,
+    "n_features": 100
+  }
+}

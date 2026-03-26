@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+Warning--empty booktitle in kudo2006mecab
+You've used 15 entries,
+            2773 wiz_defined-function locations,
+            672 strings with 7635 characters,
+and the built_in function-call counts, 6593 in all, are:
+= -- 567
+> -- 399
+< -- 10
++ -- 138
+- -- 123
+* -- 488
+:= -- 1033
+add.period$ -- 50
+call.type$ -- 15
+change.case$ -- 83
+chr.to.int$ -- 15
+cite$ -- 31
+duplicate$ -- 299
+empty$ -- 542
+format.name$ -- 142
+if$ -- 1376
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 11
+newline$ -- 88
+num.names$ -- 60
+pop$ -- 185
+preamble$ -- 1
+purify$ -- 68
+quote$ -- 0
+skip$ -- 245
+stack$ -- 0
+substring$ -- 172
+swap$ -- 29
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 165
+warning$ -- 1
+while$ -- 53
+width$ -- 0
+write$ -- 201
+(There was 1 warning)
